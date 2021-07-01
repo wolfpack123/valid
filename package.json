@@ -1,0 +1,25 @@
+{
+  "name": "valid",
+  "version": "1.0.0",
+  "description": "This validates our data",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bapp\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfpack123/valid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfpack123/valid/issues"
+  },
+  "homepage": "https://github.com/wolfpack123/valid#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0",
+    "nodemon": "^2.0.9",
+    "validator": "^13.6.0"
+  }
+}
